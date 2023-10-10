@@ -3,7 +3,7 @@
   "description": "[Zenx-Userbot] Userbot Hanya Untuk Bersenang - Senang",
   "logo": "https://telegra.ph/file/32eeead2aec7a7a28571a.jpg",
   "keywords": ["telegram", "userbot", "man-userbot", "modular", "python"],
-  "repository": "https://github.com/ezbw/alby/tree/",
+  "repository": "https://github.com/ezbw69/alby/tree/etc",
   "stack": "container",
   "env": {
     "API_KEY": {
