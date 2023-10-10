@@ -306,8 +306,8 @@ DEEZER_ARL_TOKEN = os.environ.get("DEEZER_ARL_TOKEN", None)
 DEEP_AI = os.environ.get("DEEP_AI", None)
 
 # Inline bot helper
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "1688160577:AAFBC9M6i2e4I1VLsWSBG-O62pts94Wz8Mg")
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@haluccybot")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+BOT_USERNAME = os.environ.get("BOT_USERNAME", None)
 
 # Jangan di hapus Nanti ERROR
 while 0 < 6:
